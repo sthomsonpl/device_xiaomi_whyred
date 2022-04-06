@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_whyred.mk
+    $(LOCAL_DIR)/dot_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_whyred-user \
-    evolution_whyred-userdebug \
-    evolution_whyred-eng
+    dot_whyred-user \
+    dot_whyred-userdebug \
+    dot_whyred-eng
